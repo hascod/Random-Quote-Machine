@@ -1,2 +1,4 @@
 # Random-Quote-Machine
-Freecodecamp Project
+Freecodecamp-Front-End-Project
+
+Link in codepen: https://codepen.io/hasscode/pen/RwMBYGb
